@@ -9,3 +9,10 @@ To see why that's hard, you need to know that Earth observation satellites captu
 
 * 📡 SAR: Synthetic Aperture Radar — works completely differently. It's an active sensor: it sends out its own microwave pulses and measures what bounces back. Because microwave wavelengths are so much longer than visible light, they pass straight through clouds, and the sensor works just as well at midnight as at noon. The tradeoff is that SAR images are much harder to read — grainy, geometrically distorted, nothing like a normal photo.
 
+So it became difficult to analyse the images quickly. There is a way to clear the difficulty.But it was hard to achieve.💬
+
+---
+
+## 🌟The Idea
+
+
