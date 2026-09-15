@@ -1,5 +1,5 @@
 # SATQUERY-AI
-"An AI system for analyzing and querying satellite imagery, developed to solve the SATQUERY AI hackathon problem statement."
+> "An AI system for analyzing and querying satellite imagery, developed to solve the SATQUERY AI hackathon problem statement."
 
 The name says it all: satellite, query. The idea is simple to state and hard to build — what if anyone, not just a remote sensing expert, could ask a satellite image a question in plain language and get back a trustworthy, accurate answer?
 
