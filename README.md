@@ -15,4 +15,5 @@ So it became difficult to analyse the images quickly. There is a way to clear th
 
 ## 🌟The Idea
 
+### An AI that can solve the problem of analysing the satellite images in minutes
 
