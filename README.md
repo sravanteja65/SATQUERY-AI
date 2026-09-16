@@ -13,7 +13,9 @@ So it became difficult to analyse the images quickly. There is a way to clear th
 
 ---
 
-## 🌟The Idea
+## Why I choose this?🧐
 
-### An AI that can solve the problem of analysing the satellite images in minutes
+The problem of analysing the satellite images which is taking weeks and predict the upcoming earth events like Earthquake🌍, Floods🌊, etc.
+
+This causing the loss of many people lives. 
 
