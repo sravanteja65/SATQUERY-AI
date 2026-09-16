@@ -19,3 +19,18 @@ The problem of analysing the satellite images which is taking weeks and predict 
 
 This causing the loss of many people lives. 
 
+What is the solution for this kind of problem?🤔
+
+---
+
+## 💡The Idea
+
+### A Revolution in AI generation.
+SATQuery AI is an AI system which allows people with no special GIS Experience to know the information about the satellite images and take decisions about the upcoming events.
+It gives an accurate answer in plain english which makes people to understand easily and let's us make right decision.
+
+---
+
+## ✨Features
+
+###
