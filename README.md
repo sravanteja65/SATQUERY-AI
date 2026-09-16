@@ -26,11 +26,63 @@ What is the solution for this kind of problem?🤔
 ## 💡The Idea
 
 ### A Revolution in AI generation.
-SATQuery AI is an AI system which allows people with no special GIS Experience to know the information about the satellite images and take decisions about the upcoming events.
+SATQuery-AI is an AI system which allows people with no special GIS Experience to know the information about the satellite images and take decisions about the upcoming events.
+
 It gives an accurate answer in plain english which makes people to understand easily and let's us make right decision.
+
+It covers gap between Experienced and Unexperienced.
+Fills the gap between OPTICAL and SAR.
 
 ---
 
 ## ✨Features
 
-###
+### 1.🌏 Interactive Earth Exploration 
+
+User can explore the location with interactive map and satellite visualization.
+
+User can:
+
+* Search for Cities, Towns and Villages.
+* Navigate around the earth.
+* Select a location for analysis.
+* View satellite images.
+* Focussed analysis of the selected location.
+
+### 2.🤖 Vision Language Model
+
+User can interact with satellite data using plain english.
+
+Instead of complex GIS tools, User can ask in plain english such as:
+
+> 💬Analyze the water resources around your location.
+
+> 💬Compare this image with the previous images and describe the geographical changes.
+
+> 💬Analyze this location with satellite images and give the every information about the (Your preferences).
+
+> 💬Areas with significant increase in population.
+
+The goal is to make complex Geospatial Workflows into simple conversations.
+
+### 3.📡Satellite Image Analysis
+
+SATQuery-AI is built to support the analysis of Earth Observation images,including:
+
+* 🌈Optical Satellite Imagery
+* 🛰️SAR Imagery
+* 🔥Disaster Management
+* 🌾Agriculture Monitoring
+* 🌊Water Resource Management
+* 🌇Urban Planning
+* ⛰️Terrain Observation
+* 🏛️Infrastructure
+
+AI- Powered Analysis can helps people to extract meaningful details.
+
+---
+
+## 
+
+
+
